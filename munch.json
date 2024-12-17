@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "fifteen",
+    "filename": "PixelOS_munch.zip",
+    "datetime": 0,
+    "size": 0,
+    "url": "https://pixelos.net/munch.zip",
+    "github_releases_url": "https://pixelos.net/munch.zip",
+    "filehash": "hash",
+    "id": "hash",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "LittleChest",
+            "name": "LittleChest"
+        }
+    ],
+    "donate_url": "https://www.patreon.com/LittleChest",
+    "website_url": "https://github.com/OctopusROM",
+    "news_url": "https://t.me/OctopusROM/8",
+    "forum_url": "https://t.me/OctopusROM/12"
+}
