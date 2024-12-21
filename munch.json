@@ -1,16 +1,15 @@
 {
     "error": false,
     "version": "fifteen",
-    "filename": "PixelOS_munch.zip",
-    "datetime": 0,
-    "size": 0,
-    "url": "https://pixelos.net/munch.zip",
-    "github_releases_url": "https://pixelos.net/munch.zip",
-    "filehash": "hash",
-    "id": "hash",
+    "filename": "PixelOS_munch-AP3A.241105.008.zip",
+    "datetime": 1734783928,
+    "size": 2234421668,
+    "url": "https://littlechest365-my.sharepoint.com/personal/littleroms_skinow_skin/_layouts/15/download.aspx?share=Eako6_YEn3JCmzPSZloCMjABawplGbWXM9etXpVkD-hIkg",
+    "filehash": "ae02d528fa0cc9aa1c709c0d082275bf",
+    "id": "AP3A.241105.008",
     "maintainers": [
         {
-            "main_maintainer": true,
+            "main_maintainer": false,
             "github_username": "LittleChest",
             "name": "LittleChest"
         }
